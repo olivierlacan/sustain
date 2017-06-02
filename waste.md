@@ -1,4 +1,4 @@
-# Waste
+# ♻️ Waste
 
 It's easy to think of trash as one amorphous blob of things to be discarded but even 
 without turning into a forager you can start thinking about your waste differently.
