@@ -1,2 +1,2 @@
-# sustain :earth:
+# sustain 🌍
 A personal guide to sustainability
